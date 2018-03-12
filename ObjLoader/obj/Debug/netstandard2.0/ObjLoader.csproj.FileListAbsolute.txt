@@ -1,0 +1,9 @@
+C:\Users\david\Desktop\Ordner\Neben\__Schule\4. Jahrgang\Progr\Lackinger\OpenGl_Simulation01\ObjLoader\bin\Debug\netstandard2.0\ObjLoader.deps.json
+C:\Users\david\Desktop\Ordner\Neben\__Schule\4. Jahrgang\Progr\Lackinger\OpenGl_Simulation01\ObjLoader\bin\Debug\netstandard2.0\ObjLoader.dll
+C:\Users\david\Desktop\Ordner\Neben\__Schule\4. Jahrgang\Progr\Lackinger\OpenGl_Simulation01\ObjLoader\bin\Debug\netstandard2.0\ObjLoader.pdb
+C:\Users\david\Desktop\Ordner\Neben\__Schule\4. Jahrgang\Progr\Lackinger\OpenGl_Simulation01\ObjLoader\obj\Debug\netstandard2.0\ObjLoader.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Ordner\Neben\__Schule\4. Jahrgang\Progr\Lackinger\OpenGl_Simulation01\ObjLoader\obj\Debug\netstandard2.0\ObjLoader.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Ordner\Neben\__Schule\4. Jahrgang\Progr\Lackinger\OpenGl_Simulation01\ObjLoader\obj\Debug\netstandard2.0\ObjLoader.AssemblyInfo.cs
+C:\Users\david\Desktop\Ordner\Neben\__Schule\4. Jahrgang\Progr\Lackinger\OpenGl_Simulation01\ObjLoader\obj\Debug\netstandard2.0\ObjLoader.dll
+C:\Users\david\Desktop\Ordner\Neben\__Schule\4. Jahrgang\Progr\Lackinger\OpenGl_Simulation01\ObjLoader\obj\Debug\netstandard2.0\ObjLoader.pdb
+C:\Users\david\Desktop\Ordner\Neben\__Schule\4. Jahrgang\Progr\Lackinger\OpenGl_Simulation01\ObjLoader\obj\Debug\netstandard2.0\ObjLoader.csprojResolveAssemblyReference.cache
